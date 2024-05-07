@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img  src="https://github-readme-stats.vercel.app/api?username=rxlabz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
 <!--
 **rxlabz/rxlabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
