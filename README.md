@@ -4,23 +4,17 @@ I'm a freelance developper/trainer working with Flutter and Dart since 2017.
 
 <img  src="https://github-readme-stats.vercel.app/api?username=rxlabz&show_icons=true&count_private=true&include_all_commits=false&hide_border=true">
 
-I like : 
-  - building games and apps for my kids : 
-    - Calcache : [Playstore](https://play.google.com/store/apps/details?id=bz.rxla.calcache) / [AppStore](https://apps.apple.com/fr/app/calcache-opérations-mêlées/id1529890772)
-<img src="https://play-lh.googleusercontent.com/OPLfuuj3YrGbwLVdn0IuzKByKCXtcVc6ZKFDHr2PjRuxeuBKdSF0TQ9U9Kcv9sz3L0E=w5120-h2880" width="500">
-  
-  - graphical experiments : 
-    - [From paper to Flutter canvas](https://dev.to/rx_labz/generative-animations-with-dart-and-flutter-m14)
-      
-<img src="https://github.com/rxlabz/rxlabz/assets/1397248/3b5c0b16-e73b-4975-b446-f26ee0e4fe17" width="500">
-
-
-| [Algrafx](https://github.com/rxlabz/algrafx) : Flutter - 2019 | [Algraphr](https://github.com/rxlabz/algraphr) : Dart - 2016 |
-| ----------------------- | ----------------------- |
-|<img src="https://github.com/rxlabz/algrafx/raw/master/images/desktop.png" width="250">|<img src="https://github.com/rxlabz/algraphr/blob/master/img/algraphr127.png" width="250">|
-
-
-
+Some of my Flutter projects :  
+- [Cyclop package](https://github.com/rxlabz/cyclop) : a Flutter color picker + eyedropper => [web demo](https://rxlabz.github.io/cyclop/)
+- [Dauillama](https://github.com/rxlabz/dauillama) : Ollama Flutter UI
+- graphical experiments :
+  - [UI Protos](https://github.com/rxlabz/flutter_ui_protos) => [web demo](http://rxlabz.github.io/flutter_ui_protos/thermo_ui/#/)
+  - [Flutter shader lab](https://github.com/rxlabz/flutter_shaders_gallery)
+  - [From paper to Flutter canvas](https://dev.to/rx_labz/generative-animations-with-dart-and-flutter-m14)
+- educationnal games / app 
+  - Calcache : [Playstore](https://play.google.com/store/apps/details?id=bz.rxla.calcache) / [AppStore](https://apps.apple.com/fr/app/calcache-opérations-mêlées/id1529890772)
+  - Turnigo : [Playstore](https://play.google.com/store/apps/details?id=bz.rxla.turnii&hl=fr)
+  - [Uno dots trace](https://github.com/rxlabz/uno-dots-trace)
 
 <!--
 **rxlabz/rxlabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
