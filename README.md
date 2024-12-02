@@ -2,7 +2,7 @@
 
 I'm a freelance developper/trainer working with Flutter and Dart since 2017.
 
-<img  src="https://github-readme-stats.vercel.app/api?username=rxlabz&show_icons=true&count_private=true&include_all_commits=false&hide_border=true">
+<img  src="https://github-readme-stats.vercel.app/api?username=rxlabz&show_icons=true&count_private=true&include_all_commits=false&hide_border=true&theme=github_dark_dimmed">
 
 Some of my last Flutter projects :  
 - [Dauillama](https://github.com/rxlabz/dauillama) : Ollama Flutter UI
