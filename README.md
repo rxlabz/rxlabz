@@ -6,15 +6,16 @@ I'm a freelance developper/trainer working with Flutter and Dart since 2017.
 
 Some of my last projects :  
 - [Dauillama](https://github.com/rxlabz/dauillama) : Ollama Flutter UI
+- [Flutter widget catalog](https://widgets.apprendre-flutter.dev) : a Flutter web app to explore the many Flutter widgets
 - [Cyclop](https://github.com/rxlabz/cyclop) : a Flutter color picker + eyedropper package => [web demo](https://rxlabz.github.io/cyclop/)
 - graphical experiments :
   - [UI Protos](https://github.com/rxlabz/flutter_ui_protos) => [web demo](http://rxlabz.github.io/flutter_ui_protos/thermo_ui/#/)
   - [Flutter shader lab](https://github.com/rxlabz/flutter_shaders_gallery)
   - [From paper to Flutter canvas](https://dev.to/rx_labz/generative-animations-with-dart-and-flutter-m14)
 - educationnal games / app 
-  - Calcache : [Playstore](https://play.google.com/store/apps/details?id=bz.rxla.calcache) / [AppStore](https://apps.apple.com/fr/app/calcache-opérations-mêlées/id1529890772)
+  - Calcache : A math puzzle game ( [Playstore](https://play.google.com/store/apps/details?id=bz.rxla.calcache) / [AppStore](https://apps.apple.com/fr/app/calcache-opérations-mêlées/id1529890772) )
   - Turnigo : [Playstore](https://play.google.com/store/apps/details?id=bz.rxla.turnii&hl=fr)
-  - [Uno dots trace](https://github.com/rxlabz/uno-dots-trace)
+  - [Uno dots trace](https://github.com/rxlabz/uno-dots-trace) : A dot-to-dot editor app 
 
 <!--
 **rxlabz/rxlabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
