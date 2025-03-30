@@ -6,7 +6,6 @@ I'm a freelance developper/trainer working with Flutter and Dart since 2017.
 
 Some of my last projects :  
 - [Dauillama](https://github.com/rxlabz/dauillama) : Ollama Flutter UI
-- <a href="https://github.com/rxlabz/dauillama" target="_blank">Dauillama</a>, a Flutter Ollama UI
 - [Flutter widget catalog](https://widgets.apprendre-flutter.dev) : a Flutter web app to explore the many Flutter widgets
 - [Cyclop](https://github.com/rxlabz/cyclop) : a Flutter color picker + eyedropper package => [web demo](https://rxlabz.github.io/cyclop/)
 - graphical experiments :
